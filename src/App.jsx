@@ -167,7 +167,7 @@ const ComingSoonPage = () => {
         <div className="flex justify-center space-x-6 mb-8">
           {/* Instagram Icon */}
           <a
-            href="#instagram"
+            href="https://www.instagram.com/mac_dame/"
             className="text-amber-900 hover:text-amber-700 transition-colors duration-300"
             aria-label="Follow us on Instagram"
           >
@@ -180,7 +180,7 @@ const ComingSoonPage = () => {
           
           {/* Facebook Icon */}
           <a
-            href="#facebook"
+            href="https://www.facebook.com/macdame/"
             className="text-amber-900 hover:text-amber-700 transition-colors duration-300"
             aria-label="Follow us on Facebook"
           >
@@ -193,7 +193,7 @@ const ComingSoonPage = () => {
           
           {/* WhatsApp Icon with onClick that opens WhatsApp */}
           <a
-            href="https://wa.me/YOUR_PHONE_NUMBER_HERE"
+            href="https://wa.me/9962496467"
             target="_blank"
             rel="noopener noreferrer"
             className="text-amber-900 hover:text-amber-700 transition-colors duration-300"
